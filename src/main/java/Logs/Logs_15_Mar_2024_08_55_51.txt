@@ -1,0 +1,32 @@
+Date			Time			Category		Description
+15-Mar-2024		14:25:51		Info			NABERS Automation Script has been Started
+15-Mar-2024		14:25:54		Info			There are 2 Scenario present
+15-Mar-2024		14:25:54		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		14:25:56		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		14:26:06		Info			Login Method of Shopping Centre sheet start running
+15-Mar-2024		14:26:23		Info			Login Method of Shopping Centre sheet Passed
+15-Mar-2024		14:26:23		Info			SelectRatingType Method of Shopping Centre sheet start running
+15-Mar-2024		14:26:46		Info			SelectRatingType Method of Shopping Centre sheet Passed
+15-Mar-2024		14:26:46		Info			RatingDetails Method of Shopping Centre sheet start running
+15-Mar-2024		14:26:56		Error			RatingDetails Method of Shopping Centre sheet Faild
+15-Mar-2024		14:26:56		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:26:56		Info			RatingPeriod Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:00		Error			RatingPeriod Method of Shopping Centre sheet Faild
+15-Mar-2024		14:27:00		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:27:00		Info			Premises Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:05		Error			Premises Method of Shopping Centre sheet Faild
+15-Mar-2024		14:27:05		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:27:05		Info			Contact Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:10		Error			Contact Method of Shopping Centre sheet Faild
+15-Mar-2024		14:27:10		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:27:10		Info			HouseAreaService Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:19		Error			HouseAreaService Method of Shopping Centre sheet Faild
+15-Mar-2024		14:27:19		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:27:19		Info			HouseArea Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:19		Info			HouseArea Method of Shopping Centre sheet Passed
+15-Mar-2024		14:27:19		Info			Area Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:19		Info			Area Method of Shopping Centre sheet Passed
+15-Mar-2024		14:27:19		Info			Parkingspace Method of Shopping Centre sheet start running
+15-Mar-2024		14:27:27		Error			Parkingspace Method of Shopping Centre sheet Faild
+15-Mar-2024		14:27:27		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:27:27		Info			FoodCourt Method of Shopping Centre sheet start running

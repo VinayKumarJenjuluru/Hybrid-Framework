@@ -1,0 +1,19 @@
+Date			Time			Category		Description
+15-Mar-2024		14:27:32		Info			NABERS Automation Script has been Started
+15-Mar-2024		14:27:34		Info			There are 2 Scenario present
+15-Mar-2024		14:27:34		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		14:27:36		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		14:27:48		Info			Login Method of Shopping Centre sheet start running
+15-Mar-2024		14:28:05		Info			Login Method of Shopping Centre sheet Passed
+15-Mar-2024		14:28:06		Info			SelectRatingType Method of Shopping Centre sheet start running
+15-Mar-2024		14:28:28		Info			SelectRatingType Method of Shopping Centre sheet Passed
+15-Mar-2024		14:28:28		Info			RatingDetails Method of Shopping Centre sheet start running
+15-Mar-2024		14:28:45		Info			RatingDetails Method of Shopping Centre sheet Passed
+15-Mar-2024		14:28:45		Info			RatingPeriod Method of Shopping Centre sheet start running
+15-Mar-2024		14:28:55		Info			RatingPeriod Method of Shopping Centre sheet Passed
+15-Mar-2024		14:28:55		Info			Premises Method of Shopping Centre sheet start running
+15-Mar-2024		14:29:08		Error			Premises Method of Shopping Centre sheet Faild
+15-Mar-2024		14:29:08		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:29:08		Info			Contact Method of Shopping Centre sheet start running
+15-Mar-2024		14:29:43		Info			Contact Method of Shopping Centre sheet Passed
+15-Mar-2024		14:29:43		Info			HouseAreaService Method of Shopping Centre sheet start running

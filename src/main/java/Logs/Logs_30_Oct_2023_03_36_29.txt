@@ -1,0 +1,13 @@
+Date			Time			Category		Description
+30-Oct-2023		21:06:30		Info			NABERS Automation Script has been Started
+30-Oct-2023		21:06:33		Info			There are 4 Scenario present
+30-Oct-2023		21:06:33		Info			Shopping Centre Scenario sheet start executing
+30-Oct-2023		21:06:38		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+30-Oct-2023		21:06:41		Error			org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 116
+Current browser version is 118.0.5993.118 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'AIN189P-LT', ip: '192.168.3.96'
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, incognito], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*, incognito], extensions: []}}}]
+30-Oct-2023		21:06:41		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0

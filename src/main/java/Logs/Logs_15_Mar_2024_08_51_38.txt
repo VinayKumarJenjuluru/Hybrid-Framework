@@ -1,0 +1,8 @@
+Date			Time			Category		Description
+15-Mar-2024		14:21:38		Info			NABERS Automation Script has been Started
+15-Mar-2024		14:21:40		Info			There are 2 Scenario present
+15-Mar-2024		14:21:40		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		14:21:42		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		14:21:56		Info			Login Method of Shopping Centre sheet start running
+15-Mar-2024		14:22:21		Error			java.lang.reflect.InvocationTargetException
+15-Mar-2024		14:22:21		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0

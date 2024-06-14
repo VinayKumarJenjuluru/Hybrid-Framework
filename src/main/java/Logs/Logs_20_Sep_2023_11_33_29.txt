@@ -1,0 +1,15 @@
+Date			Time			Category		Description
+20-Sep-2023		16:03:30		Info			NABERS Automation Script has been Started
+20-Sep-2023		16:03:40		Info			There are 4 Scenario present
+20-Sep-2023		16:03:41		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		16:03:54		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		16:04:35		Error			org.openqa.selenium.WebDriverException: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8577eb5120b575d95d3f2bdefa6b4f07, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52154}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52154/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8577eb5120b575d95d3f2bdefa6b4f07
+20-Sep-2023		16:04:35		Error			java.lang.NullPointerException: Cannot invoke "String.substring(int)" because "Methods.NABERS_Common_Methods.NABERS_Common_Methods.ratingNumberOfTheBuilding" is null

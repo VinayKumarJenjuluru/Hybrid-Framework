@@ -1,0 +1,69 @@
+Date			Time			Category		Description
+20-Sep-2023		20:39:39		Info			NABERS Automation Script has been Started
+20-Sep-2023		20:39:40		Info			There are 4 Scenario present
+20-Sep-2023		20:39:40		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		20:39:42		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		20:39:51		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		20:40:06		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		20:40:07		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		20:40:29		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		20:40:29		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		20:40:46		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		20:40:46		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		20:40:56		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		20:40:56		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		20:41:13		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		20:41:13		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		20:41:31		Info			Contact Method of Shopping Centre sheet Passed
+20-Sep-2023		20:41:31		Info			HouseAreaService Method of Shopping Centre sheet start running
+20-Sep-2023		20:43:36		Info			HouseAreaService Method of Shopping Centre sheet Passed
+20-Sep-2023		20:43:36		Info			HouseArea Method of Shopping Centre sheet start running
+20-Sep-2023		20:43:36		Info			HouseArea Method of Shopping Centre sheet Passed
+20-Sep-2023		20:43:36		Info			Area Method of Shopping Centre sheet start running
+20-Sep-2023		20:43:36		Info			Area Method of Shopping Centre sheet Passed
+20-Sep-2023		20:43:36		Info			Parkingspace Method of Shopping Centre sheet start running
+20-Sep-2023		20:43:56		Info			Parkingspace Method of Shopping Centre sheet Passed
+20-Sep-2023		20:43:56		Info			FoodCourt Method of Shopping Centre sheet start running
+20-Sep-2023		20:44:16		Info			FoodCourt Method of Shopping Centre sheet Passed
+20-Sep-2023		20:44:16		Info			Cinemas Method of Shopping Centre sheet start running
+20-Sep-2023		20:44:16		Info			Cinemas Method of Shopping Centre sheet Passed
+20-Sep-2023		20:44:16		Info			GYM Method of Shopping Centre sheet start running
+20-Sep-2023		20:44:37		Info			GYM Method of Shopping Centre sheet Passed
+20-Sep-2023		20:44:38		Info			GridElectricity Method of Shopping Centre sheet start running
+20-Sep-2023		20:47:03		Info			GridElectricity Method of Shopping Centre sheet Passed
+20-Sep-2023		20:47:03		Info			RenewableElectricity Method of Shopping Centre sheet start running
+20-Sep-2023		20:47:48		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+20-Sep-2023		20:47:48		Info			GasAndLPG Method of Shopping Centre sheet start running
+20-Sep-2023		20:47:58		Info			GasAndLPG Method of Shopping Centre sheet Passed
+20-Sep-2023		20:47:58		Info			Diesel Method of Shopping Centre sheet start running
+20-Sep-2023		20:48:07		Info			Diesel Method of Shopping Centre sheet Passed
+20-Sep-2023		20:48:07		Info			Water Method of Shopping Centre sheet start running
+20-Sep-2023		20:48:10		Info			Water Method of Shopping Centre sheet Passed
+20-Sep-2023		20:48:10		Info			ReviewSummary Method of Shopping Centre sheet start running
+20-Sep-2023		20:48:25		Info			ReviewSummary Method of Shopping Centre sheet Passed
+20-Sep-2023		20:48:25		Info			CertificationProcess Method of Shopping Centre sheet start running
+20-Sep-2023		20:49:24		Info			CertificationProcess Method of Shopping Centre sheet Passed
+20-Sep-2023		20:49:25		Info			Logout Method of Shopping Centre sheet start running
+20-Sep-2023		20:49:25		Info			Logout Method of Shopping Centre sheet Passed
+20-Sep-2023		20:49:25		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		20:49:25		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		20:49:34		Info			Login Method of Shopping Centre1 sheet start running
+20-Sep-2023		20:49:38		Error			java.lang.reflect.InvocationTargetException
+20-Sep-2023		20:49:38		Info			Hotel Scenario sheet start executing
+20-Sep-2023		20:49:38		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		20:49:43		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea96637279061ac5747b72f890486a32, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51552}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51552/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ea96637279061ac5747b72f890486a32
+20-Sep-2023		20:49:43		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		20:49:44		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		20:49:48		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2aa8d4bd069a267369b2900493cd202b, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51565}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51565/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aa8d4bd069a267369b2900493cd202b

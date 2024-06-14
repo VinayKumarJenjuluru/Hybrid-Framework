@@ -1,0 +1,13 @@
+Date			Time			Category		Description
+21-Sep-2023		14:28:20		Info			NABERS Automation Script has been Started
+21-Sep-2023		14:28:21		Info			There are 4 Scenario present
+21-Sep-2023		14:28:22		Info			Shopping Centre Scenario sheet start executing
+21-Sep-2023		14:28:23		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+21-Sep-2023		14:28:32		Info			Login Method of Shopping Centre sheet start running
+21-Sep-2023		14:28:48		Info			Login Method of Shopping Centre sheet Passed
+21-Sep-2023		14:28:48		Info			SelectRatingType Method of Shopping Centre sheet start running
+21-Sep-2023		14:29:10		Info			SelectRatingType Method of Shopping Centre sheet Passed
+21-Sep-2023		14:29:11		Info			RatingDetails Method of Shopping Centre sheet start running
+21-Sep-2023		14:29:20		Error			RatingDetails Method of Shopping Centre sheet Faild
+21-Sep-2023		14:29:20		Error			Script terminates here and goes to next scenario.
+21-Sep-2023		14:29:20		Error			java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "Methods.NABERS_Common_Methods.NABERS_Common_Methods.ratingNumberOfTheBuilding" is null

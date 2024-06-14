@@ -1,0 +1,15 @@
+Date			Time			Category		Description
+15-Mar-2024		14:24:27		Info			NABERS Automation Script has been Started
+15-Mar-2024		14:24:29		Info			There are 2 Scenario present
+15-Mar-2024		14:24:29		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		14:24:31		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		14:24:42		Info			Login Method of Shopping Centre sheet start running
+15-Mar-2024		14:25:06		Error			Login Method of Shopping Centre sheet Faild
+15-Mar-2024		14:25:07		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:25:07		Info			SelectRatingType Method of Shopping Centre sheet start running
+15-Mar-2024		14:25:14		Error			SelectRatingType Method of Shopping Centre sheet Faild
+15-Mar-2024		14:25:15		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		14:25:15		Info			RatingDetails Method of Shopping Centre sheet start running
+15-Mar-2024		14:25:35		Error			RatingDetails Method of Shopping Centre sheet Faild
+15-Mar-2024		14:25:35		Error			java.io.FileNotFoundException: D:\Nabers_FrameWork\src\main\java\Test_Data\Nabers_Data_Sheet.xlsx (The process cannot access the file because it is being used by another process)
+15-Mar-2024		14:25:35		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0

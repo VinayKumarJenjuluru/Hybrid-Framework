@@ -1,0 +1,49 @@
+Date			Time			Category		Description
+28-Sep-2023		17:58:29		Info			NABERS Automation Script has been Started
+28-Sep-2023		17:58:30		Info			There are 4 Scenario present
+28-Sep-2023		17:58:31		Info			Shopping Centre Scenario sheet start executing
+28-Sep-2023		17:58:32		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+28-Sep-2023		17:58:47		Info			Login Method of Shopping Centre sheet start running
+28-Sep-2023		17:59:06		Info			Login Method of Shopping Centre sheet Passed
+28-Sep-2023		17:59:06		Info			SelectRatingType Method of Shopping Centre sheet start running
+28-Sep-2023		17:59:29		Info			SelectRatingType Method of Shopping Centre sheet Passed
+28-Sep-2023		17:59:29		Info			RatingDetails Method of Shopping Centre sheet start running
+28-Sep-2023		17:59:54		Info			RatingDetails Method of Shopping Centre sheet Passed
+28-Sep-2023		17:59:55		Info			RatingPeriod Method of Shopping Centre sheet start running
+28-Sep-2023		18:00:06		Info			RatingPeriod Method of Shopping Centre sheet Passed
+28-Sep-2023		18:00:06		Info			Premises Method of Shopping Centre sheet start running
+28-Sep-2023		18:00:24		Info			Premises Method of Shopping Centre sheet Passed
+28-Sep-2023		18:00:24		Info			Contact Method of Shopping Centre sheet start running
+28-Sep-2023		18:00:42		Error			Contact Method of Shopping Centre sheet Faild
+28-Sep-2023		18:00:42		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		18:00:42		Info			HouseAreaService Method of Shopping Centre sheet start running
+28-Sep-2023		18:02:47		Info			HouseAreaService Method of Shopping Centre sheet Passed
+28-Sep-2023		18:02:47		Info			HouseArea Method of Shopping Centre sheet start running
+28-Sep-2023		18:02:47		Info			HouseArea Method of Shopping Centre sheet Passed
+28-Sep-2023		18:02:47		Info			Area Method of Shopping Centre sheet start running
+28-Sep-2023		18:02:48		Info			Area Method of Shopping Centre sheet Passed
+28-Sep-2023		18:02:48		Info			Parkingspace Method of Shopping Centre sheet start running
+28-Sep-2023		18:03:08		Info			Parkingspace Method of Shopping Centre sheet Passed
+28-Sep-2023		18:03:08		Info			FoodCourt Method of Shopping Centre sheet start running
+28-Sep-2023		18:03:27		Info			FoodCourt Method of Shopping Centre sheet Passed
+28-Sep-2023		18:03:27		Info			Cinemas Method of Shopping Centre sheet start running
+28-Sep-2023		18:03:27		Info			Cinemas Method of Shopping Centre sheet Passed
+28-Sep-2023		18:03:28		Info			GYM Method of Shopping Centre sheet start running
+28-Sep-2023		18:03:49		Info			GYM Method of Shopping Centre sheet Passed
+28-Sep-2023		18:03:49		Info			GridElectricity Method of Shopping Centre sheet start running
+28-Sep-2023		18:05:12		Info			GridElectricity Method of Shopping Centre sheet Passed
+28-Sep-2023		18:05:12		Info			RenewableElectricity Method of Shopping Centre sheet start running
+28-Sep-2023		18:05:56		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+28-Sep-2023		18:05:56		Info			GasAndLPG Method of Shopping Centre sheet start running
+28-Sep-2023		18:06:06		Info			GasAndLPG Method of Shopping Centre sheet Passed
+28-Sep-2023		18:06:06		Info			Diesel Method of Shopping Centre sheet start running
+28-Sep-2023		18:06:14		Info			Diesel Method of Shopping Centre sheet Passed
+28-Sep-2023		18:06:15		Info			Water Method of Shopping Centre sheet start running
+28-Sep-2023		18:06:18		Info			Water Method of Shopping Centre sheet Passed
+28-Sep-2023		18:06:18		Info			ReviewSummary Method of Shopping Centre sheet start running
+28-Sep-2023		18:06:33		Info			ReviewSummary Method of Shopping Centre sheet Passed
+28-Sep-2023		18:06:33		Info			CertificationProcess Method of Shopping Centre sheet start running
+28-Sep-2023		18:07:32		Info			CertificationProcess Method of Shopping Centre sheet Passed
+28-Sep-2023		18:07:32		Info			Logout Method of Shopping Centre sheet start running
+28-Sep-2023		18:07:33		Info			Logout Method of Shopping Centre sheet Passed
+28-Sep-2023		18:07:33		Error			java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Row.getLastCellNum()" because "rowKey" is null

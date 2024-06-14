@@ -1,0 +1,8 @@
+Date			Time			Category		Description
+29-Sep-2023		19:18:25		Info			NABERS Automation Script has been Started
+29-Sep-2023		19:18:27		Info			There are 4 Scenario present
+29-Sep-2023		19:18:27		Info			Shopping Centre Scenario sheet start executing
+29-Sep-2023		19:18:28		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+29-Sep-2023		19:18:41		Info			Login Method of Shopping Centre sheet start running
+29-Sep-2023		19:19:05		Error			java.lang.reflect.InvocationTargetException
+29-Sep-2023		19:19:05		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0

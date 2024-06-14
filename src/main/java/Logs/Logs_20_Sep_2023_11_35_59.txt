@@ -1,0 +1,9 @@
+Date			Time			Category		Description
+20-Sep-2023		16:06:00		Info			NABERS Automation Script has been Started
+20-Sep-2023		16:06:10		Info			There are 4 Scenario present
+20-Sep-2023		16:06:12		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		16:06:23		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		16:07:03		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		16:07:34		Error			Login Method of Shopping Centre sheet Faild
+20-Sep-2023		16:07:36		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		16:07:36		Error			java.lang.NullPointerException: Cannot invoke "String.substring(int)" because "Methods.NABERS_Common_Methods.NABERS_Common_Methods.ratingNumberOfTheBuilding" is null

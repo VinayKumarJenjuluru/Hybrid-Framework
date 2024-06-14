@@ -1,0 +1,103 @@
+Date			Time			Category		Description
+15-Mar-2024		21:22:59		Info			NABERS Automation Script has been Started
+15-Mar-2024		21:23:01		Info			There are 2 Scenario present
+15-Mar-2024		21:23:02		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		21:23:04		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		21:23:21		Info			Login Method of Shopping Centre sheet start running
+15-Mar-2024		21:23:39		Info			Login Method of Shopping Centre sheet Passed
+15-Mar-2024		21:23:39		Info			SelectRatingType Method of Shopping Centre sheet start running
+15-Mar-2024		21:24:02		Info			SelectRatingType Method of Shopping Centre sheet Passed
+15-Mar-2024		21:24:03		Info			RatingDetails Method of Shopping Centre sheet start running
+15-Mar-2024		21:24:20		Info			RatingDetails Method of Shopping Centre sheet Passed
+15-Mar-2024		21:24:20		Info			RatingPeriod Method of Shopping Centre sheet start running
+15-Mar-2024		21:24:30		Info			RatingPeriod Method of Shopping Centre sheet Passed
+15-Mar-2024		21:24:30		Info			Premises Method of Shopping Centre sheet start running
+15-Mar-2024		21:24:47		Info			Premises Method of Shopping Centre sheet Passed
+15-Mar-2024		21:24:48		Info			Contact Method of Shopping Centre sheet start running
+15-Mar-2024		21:25:05		Info			Contact Method of Shopping Centre sheet Passed
+15-Mar-2024		21:25:06		Info			HouseAreaService Method of Shopping Centre sheet start running
+15-Mar-2024		21:27:15		Info			HouseAreaService Method of Shopping Centre sheet Passed
+15-Mar-2024		21:27:15		Info			HouseArea Method of Shopping Centre sheet start running
+15-Mar-2024		21:27:16		Info			HouseArea Method of Shopping Centre sheet Passed
+15-Mar-2024		21:27:16		Info			Area Method of Shopping Centre sheet start running
+15-Mar-2024		21:27:16		Info			Area Method of Shopping Centre sheet Passed
+15-Mar-2024		21:27:17		Info			Parkingspace Method of Shopping Centre sheet start running
+15-Mar-2024		21:27:37		Info			Parkingspace Method of Shopping Centre sheet Passed
+15-Mar-2024		21:27:37		Info			FoodCourt Method of Shopping Centre sheet start running
+15-Mar-2024		21:27:57		Info			FoodCourt Method of Shopping Centre sheet Passed
+15-Mar-2024		21:27:57		Info			Cinemas Method of Shopping Centre sheet start running
+15-Mar-2024		21:27:57		Info			Cinemas Method of Shopping Centre sheet Passed
+15-Mar-2024		21:27:58		Info			GYM Method of Shopping Centre sheet start running
+15-Mar-2024		21:28:19		Info			GYM Method of Shopping Centre sheet Passed
+15-Mar-2024		21:28:19		Info			GridElectricity Method of Shopping Centre sheet start running
+15-Mar-2024		21:30:57		Info			GridElectricity Method of Shopping Centre sheet Passed
+15-Mar-2024		21:30:57		Info			RenewableElectricity Method of Shopping Centre sheet start running
+15-Mar-2024		21:31:17		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+15-Mar-2024		21:31:17		Info			GasAndLPG Method of Shopping Centre sheet start running
+15-Mar-2024		21:31:28		Info			GasAndLPG Method of Shopping Centre sheet Passed
+15-Mar-2024		21:31:29		Info			Diesel Method of Shopping Centre sheet start running
+15-Mar-2024		21:31:38		Info			Diesel Method of Shopping Centre sheet Passed
+15-Mar-2024		21:31:38		Info			Water Method of Shopping Centre sheet start running
+15-Mar-2024		21:31:41		Info			Water Method of Shopping Centre sheet Passed
+15-Mar-2024		21:31:42		Info			ReviewSummary Method of Shopping Centre sheet start running
+15-Mar-2024		21:31:57		Info			ReviewSummary Method of Shopping Centre sheet Passed
+15-Mar-2024		21:31:57		Info			CertificationProcess Method of Shopping Centre sheet start running
+15-Mar-2024		21:32:26		Error			CertificationProcess Method of Shopping Centre sheet Faild
+15-Mar-2024		21:32:26		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:32:26		Info			Logout Method of Shopping Centre sheet start running
+15-Mar-2024		21:32:26		Error			java.lang.reflect.InvocationTargetException
+15-Mar-2024		21:32:27		Info			Shopping Centre1 Scenario sheet start executing
+15-Mar-2024		21:32:28		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		21:32:41		Info			Login Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:02		Info			Login Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:33:02		Info			SelectRatingType Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:26		Info			SelectRatingType Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:33:26		Info			RatingDetails Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:36		Error			RatingDetails Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:33:37		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:33:37		Info			RatingPeriod Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:41		Error			RatingPeriod Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:33:42		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:33:42		Info			Premises Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:47		Error			Premises Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:33:48		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:33:48		Info			Contact Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:52		Error			Contact Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:33:53		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:33:53		Info			HouseAreaService Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:33:53		Info			HouseAreaService Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:33:54		Info			HouseArea Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:02		Error			HouseArea Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:02		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:02		Info			Area Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:03		Info			Area Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:34:03		Info			Parkingspace Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:03		Info			Parkingspace Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:34:04		Info			FoodCourt Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:12		Error			FoodCourt Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:12		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:13		Info			Cinemas Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:21		Error			Cinemas Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:21		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:21		Info			GYM Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:30		Error			GYM Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:30		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:30		Info			GridElectricity Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:33		Info			GridElectricity Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:34:34		Info			RenewableElectricity Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:34		Info			RenewableElectricity Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:34:34		Info			GasAndLPG Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:37		Info			GasAndLPG Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:34:38		Info			Diesel Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:41		Info			Diesel Method of Shopping Centre1 sheet Passed
+15-Mar-2024		21:34:41		Info			Water Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:46		Error			Water Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:46		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:46		Info			ReviewSummary Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:50		Error			ReviewSummary Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:51		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:51		Info			CertificationProcess Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:57		Error			CertificationProcess Method of Shopping Centre1 sheet Faild
+15-Mar-2024		21:34:57		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		21:34:57		Info			Logout Method of Shopping Centre1 sheet start running
+15-Mar-2024		21:34:57		Error			java.lang.reflect.InvocationTargetException

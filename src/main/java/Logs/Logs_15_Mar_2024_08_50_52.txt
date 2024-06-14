@@ -1,0 +1,15 @@
+Date			Time			Category		Description
+15-Mar-2024		14:20:53		Info			NABERS Automation Script has been Started
+15-Mar-2024		14:20:54		Info			There are 2 Scenario present
+15-Mar-2024		14:20:54		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		14:20:56		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		14:21:04		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [752ca0aa399cae00c2f6380f083a3f15, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51379}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51379/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 752ca0aa399cae00c2f6380f083a3f15
+15-Mar-2024		14:21:04		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0

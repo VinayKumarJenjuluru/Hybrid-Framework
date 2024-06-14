@@ -1,0 +1,11 @@
+Date			Time			Category		Description
+30-Oct-2023		21:13:02		Info			NABERS Automation Script has been Started
+30-Oct-2023		21:13:02		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+30-Oct-2023		21:13:06		Info			There are 4 Scenario present
+30-Oct-2023		21:13:06		Info			Shopping Centre Scenario sheet start executing
+30-Oct-2023		21:13:10		Error			org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+30-Oct-2023		21:13:10		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0
+30-Oct-2023		21:13:12		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+30-Oct-2023		21:13:39		Info			Login Method of Shopping Centre sheet start running
+30-Oct-2023		21:14:04		Error			java.lang.reflect.InvocationTargetException
+30-Oct-2023		21:14:04		Error			java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0

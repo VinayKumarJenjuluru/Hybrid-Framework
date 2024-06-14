@@ -1,0 +1,5 @@
+Date			Time			Category		Description
+22-Sep-2023		14:26:11		Info			NABERS Automation Script has been Started
+22-Sep-2023		14:26:13		Info			There are 4 Scenario present
+22-Sep-2023		14:26:13		Info			Shopping Centre Scenario sheet start executing
+22-Sep-2023		14:26:16		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods

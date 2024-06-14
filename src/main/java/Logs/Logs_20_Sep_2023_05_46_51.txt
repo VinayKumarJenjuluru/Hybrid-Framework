@@ -1,0 +1,41 @@
+Date			Time			Category		Description
+20-Sep-2023		22:16:51		Info			NABERS Automation Script has been Started
+20-Sep-2023		22:16:53		Info			There are 4 Scenario present
+20-Sep-2023		22:16:53		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		22:16:55		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		22:17:10		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		22:17:31		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		22:17:31		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		22:17:56		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		22:17:56		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		22:18:14		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		22:18:14		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		22:18:25		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		22:18:25		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		22:18:45		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		22:18:46		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		22:19:09		Error			java.lang.reflect.InvocationTargetException
+20-Sep-2023		22:19:10		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		22:19:11		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		22:19:23		Info			Login Method of Shopping Centre1 sheet start running
+20-Sep-2023		22:19:41		Error			java.lang.reflect.InvocationTargetException
+20-Sep-2023		22:19:41		Info			Hotel Scenario sheet start executing
+20-Sep-2023		22:19:42		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		22:19:48		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [19812dbe2941365141c777c36763bdf9, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53667}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53667/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 19812dbe2941365141c777c36763bdf9
+20-Sep-2023		22:19:49		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		22:19:50		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		22:19:57		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [778bb9dfef25cd0a0b317007fc1194a0, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53686}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53686/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 778bb9dfef25cd0a0b317007fc1194a0

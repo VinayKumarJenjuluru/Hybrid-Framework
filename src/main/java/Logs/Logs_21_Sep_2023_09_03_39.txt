@@ -1,0 +1,55 @@
+Date			Time			Category		Description
+21-Sep-2023		13:33:39		Info			NABERS Automation Script has been Started
+21-Sep-2023		13:33:40		Info			There are 4 Scenario present
+21-Sep-2023		13:33:41		Info			Shopping Centre Scenario sheet start executing
+21-Sep-2023		13:33:43		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+21-Sep-2023		13:33:55		Info			Login Method of Shopping Centre sheet start running
+21-Sep-2023		13:34:15		Info			Login Method of Shopping Centre sheet Passed
+21-Sep-2023		13:34:16		Info			SelectRatingType Method of Shopping Centre sheet start running
+21-Sep-2023		13:34:40		Info			SelectRatingType Method of Shopping Centre sheet Passed
+21-Sep-2023		13:34:41		Info			RatingDetails Method of Shopping Centre sheet start running
+21-Sep-2023		13:34:58		Info			RatingDetails Method of Shopping Centre sheet Passed
+21-Sep-2023		13:34:59		Info			RatingPeriod Method of Shopping Centre sheet start running
+21-Sep-2023		13:35:09		Info			RatingPeriod Method of Shopping Centre sheet Passed
+21-Sep-2023		13:35:10		Info			Premises Method of Shopping Centre sheet start running
+21-Sep-2023		13:35:25		Error			Premises Method of Shopping Centre sheet Faild
+21-Sep-2023		13:35:26		Error			Script terminates here and goes to next scenario.
+21-Sep-2023		13:35:26		Info			Shopping Centre1 Scenario sheet start executing
+21-Sep-2023		13:35:28		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+21-Sep-2023		13:35:40		Info			Login Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:35:58		Info			Login Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:35:59		Info			SelectRatingType Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:36:23		Info			SelectRatingType Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:36:23		Info			RatingDetails Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:36:39		Info			RatingDetails Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:36:39		Info			RatingPeriod Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:36:50		Info			RatingPeriod Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:36:50		Info			Premises Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:37:11		Info			Premises Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:37:11		Info			Contact Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:37:30		Info			Contact Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:37:31		Info			HouseAreaService Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:37:31		Info			HouseAreaService Method of Shopping Centre1 sheet Passed
+21-Sep-2023		13:37:32		Info			HouseArea Method of Shopping Centre1 sheet start running
+21-Sep-2023		13:38:10		Error			HouseArea Method of Shopping Centre1 sheet Faild
+21-Sep-2023		13:38:10		Error			Script terminates here and goes to next scenario.
+21-Sep-2023		13:38:11		Info			Hotel Scenario sheet start executing
+21-Sep-2023		13:38:13		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+21-Sep-2023		13:38:25		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7ec11e5678c9b7358a2f31522312d5cb, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55889}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55889/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ec11e5678c9b7358a2f31522312d5cb
+21-Sep-2023		13:38:25		Info			Warehouse and cold store Scenario sheet start executing
+21-Sep-2023		13:38:27		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+21-Sep-2023		13:38:34		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eaeaa3bba0d7c0a7071b2e2970acadba, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55925}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55925/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eaeaa3bba0d7c0a7071b2e2970acadba

@@ -1,0 +1,120 @@
+Date			Time			Category		Description
+22-Sep-2023		14:37:03		Info			NABERS Automation Script has been Started
+22-Sep-2023		14:37:05		Info			There are 4 Scenario present
+22-Sep-2023		14:37:05		Info			Shopping Centre Scenario sheet start executing
+22-Sep-2023		14:37:07		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+22-Sep-2023		14:37:24		Info			Login Method of Shopping Centre sheet start running
+22-Sep-2023		14:37:46		Info			Login Method of Shopping Centre sheet Passed
+22-Sep-2023		14:37:47		Info			SelectRatingType Method of Shopping Centre sheet start running
+22-Sep-2023		14:38:11		Info			SelectRatingType Method of Shopping Centre sheet Passed
+22-Sep-2023		14:38:12		Info			RatingDetails Method of Shopping Centre sheet start running
+22-Sep-2023		14:38:29		Info			RatingDetails Method of Shopping Centre sheet Passed
+22-Sep-2023		14:38:29		Info			RatingPeriod Method of Shopping Centre sheet start running
+22-Sep-2023		14:38:41		Info			RatingPeriod Method of Shopping Centre sheet Passed
+22-Sep-2023		14:38:41		Info			Premises Method of Shopping Centre sheet start running
+22-Sep-2023		14:39:01		Info			Premises Method of Shopping Centre sheet Passed
+22-Sep-2023		14:39:01		Info			Contact Method of Shopping Centre sheet start running
+22-Sep-2023		14:39:20		Info			Contact Method of Shopping Centre sheet Passed
+22-Sep-2023		14:39:21		Info			HouseAreaService Method of Shopping Centre sheet start running
+22-Sep-2023		14:39:53		Error			HouseAreaService Method of Shopping Centre sheet Faild
+22-Sep-2023		14:39:54		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:39:54		Info			HouseArea Method of Shopping Centre sheet start running
+22-Sep-2023		14:39:54		Info			HouseArea Method of Shopping Centre sheet Passed
+22-Sep-2023		14:39:55		Info			Area Method of Shopping Centre sheet start running
+22-Sep-2023		14:39:55		Info			Area Method of Shopping Centre sheet Passed
+22-Sep-2023		14:39:55		Info			Parkingspace Method of Shopping Centre sheet start running
+22-Sep-2023		14:40:16		Info			Parkingspace Method of Shopping Centre sheet Passed
+22-Sep-2023		14:40:16		Info			FoodCourt Method of Shopping Centre sheet start running
+22-Sep-2023		14:40:25		Error			FoodCourt Method of Shopping Centre sheet Faild
+22-Sep-2023		14:40:25		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:40:25		Info			Cinemas Method of Shopping Centre sheet start running
+22-Sep-2023		14:40:26		Info			Cinemas Method of Shopping Centre sheet Passed
+22-Sep-2023		14:40:26		Info			GYM Method of Shopping Centre sheet start running
+22-Sep-2023		14:40:48		Info			GYM Method of Shopping Centre sheet Passed
+22-Sep-2023		14:40:48		Info			GridElectricity Method of Shopping Centre sheet start running
+22-Sep-2023		14:42:51		Info			GridElectricity Method of Shopping Centre sheet Passed
+22-Sep-2023		14:42:52		Info			RenewableElectricity Method of Shopping Centre sheet start running
+22-Sep-2023		14:43:39		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+22-Sep-2023		14:43:39		Info			GasAndLPG Method of Shopping Centre sheet start running
+22-Sep-2023		14:43:50		Info			GasAndLPG Method of Shopping Centre sheet Passed
+22-Sep-2023		14:43:50		Info			Diesel Method of Shopping Centre sheet start running
+22-Sep-2023		14:43:59		Info			Diesel Method of Shopping Centre sheet Passed
+22-Sep-2023		14:43:59		Info			Water Method of Shopping Centre sheet start running
+22-Sep-2023		14:44:03		Info			Water Method of Shopping Centre sheet Passed
+22-Sep-2023		14:44:03		Info			ReviewSummary Method of Shopping Centre sheet start running
+22-Sep-2023		14:44:19		Info			ReviewSummary Method of Shopping Centre sheet Passed
+22-Sep-2023		14:44:19		Info			CertificationProcess Method of Shopping Centre sheet start running
+22-Sep-2023		14:45:19		Info			CertificationProcess Method of Shopping Centre sheet Passed
+22-Sep-2023		14:45:20		Info			Logout Method of Shopping Centre sheet start running
+22-Sep-2023		14:45:20		Error			java.lang.reflect.InvocationTargetException
+22-Sep-2023		14:45:20		Info			Shopping Centre1 Scenario sheet start executing
+22-Sep-2023		14:45:21		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+22-Sep-2023		14:45:34		Info			Login Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:45:55		Info			Login Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:45:55		Info			SelectRatingType Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:46:20		Info			SelectRatingType Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:46:21		Info			RatingDetails Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:46:36		Info			RatingDetails Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:46:37		Info			RatingPeriod Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:46:48		Info			RatingPeriod Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:46:48		Info			Premises Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:47:08		Info			Premises Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:47:08		Info			Contact Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:47:27		Info			Contact Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:47:28		Info			HouseAreaService Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:47:28		Info			HouseAreaService Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:47:29		Info			HouseArea Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:48:39		Info			HouseArea Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:48:40		Info			Area Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:48:40		Info			Area Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:48:41		Info			Parkingspace Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:48:41		Info			Parkingspace Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:48:41		Info			FoodCourt Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:49:44		Info			FoodCourt Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:49:44		Info			Cinemas Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:22		Error			Cinemas Method of Shopping Centre1 sheet Faild
+22-Sep-2023		14:50:22		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:50:22		Info			GYM Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:29		Error			GYM Method of Shopping Centre1 sheet Faild
+22-Sep-2023		14:50:30		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:50:30		Info			GridElectricity Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:33		Info			GridElectricity Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:50:34		Info			RenewableElectricity Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:34		Info			RenewableElectricity Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:50:34		Info			GasAndLPG Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:38		Info			GasAndLPG Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:50:38		Info			Diesel Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:41		Info			Diesel Method of Shopping Centre1 sheet Passed
+22-Sep-2023		14:50:41		Info			Water Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:45		Error			Water Method of Shopping Centre1 sheet Faild
+22-Sep-2023		14:50:45		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:50:45		Info			ReviewSummary Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:48		Error			ReviewSummary Method of Shopping Centre1 sheet Faild
+22-Sep-2023		14:50:49		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:50:49		Info			CertificationProcess Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:54		Error			CertificationProcess Method of Shopping Centre1 sheet Faild
+22-Sep-2023		14:50:54		Error			Script terminates here and goes to next scenario.
+22-Sep-2023		14:50:54		Info			Logout Method of Shopping Centre1 sheet start running
+22-Sep-2023		14:50:55		Error			java.lang.reflect.InvocationTargetException
+22-Sep-2023		14:50:55		Info			Hotel Scenario sheet start executing
+22-Sep-2023		14:50:56		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+22-Sep-2023		14:51:03		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4ee0d0ba71f0f40b9002e701124bae0d, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58846/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4ee0d0ba71f0f40b9002e701124bae0d
+22-Sep-2023		14:51:03		Info			Warehouse and cold store Scenario sheet start executing
+22-Sep-2023		14:51:04		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+22-Sep-2023		14:51:09		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d0da724dd1258172dfe462ad06eb1865, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58865/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d0da724dd1258172dfe462ad06eb1865

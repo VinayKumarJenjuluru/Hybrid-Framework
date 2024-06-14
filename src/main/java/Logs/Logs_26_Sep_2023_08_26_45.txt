@@ -1,0 +1,183 @@
+Date			Time			Category		Description
+26-Sep-2023		12:56:45		Info			NABERS Automation Script has been Started
+26-Sep-2023		12:56:46		Info			There are 4 Scenario present
+26-Sep-2023		12:56:46		Info			Shopping Centre Scenario sheet start executing
+26-Sep-2023		12:56:48		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+26-Sep-2023		12:57:02		Info			Login Method of Shopping Centre sheet start running
+26-Sep-2023		12:57:23		Info			Login Method of Shopping Centre sheet Passed
+26-Sep-2023		12:57:24		Info			SelectRatingType Method of Shopping Centre sheet start running
+26-Sep-2023		12:57:46		Info			SelectRatingType Method of Shopping Centre sheet Passed
+26-Sep-2023		12:57:46		Info			RatingDetails Method of Shopping Centre sheet start running
+26-Sep-2023		12:58:06		Info			RatingDetails Method of Shopping Centre sheet Passed
+26-Sep-2023		12:58:06		Info			RatingPeriod Method of Shopping Centre sheet start running
+26-Sep-2023		12:58:17		Info			RatingPeriod Method of Shopping Centre sheet Passed
+26-Sep-2023		12:58:17		Info			Premises Method of Shopping Centre sheet start running
+26-Sep-2023		12:58:36		Info			Premises Method of Shopping Centre sheet Passed
+26-Sep-2023		12:58:36		Info			Contact Method of Shopping Centre sheet start running
+26-Sep-2023		12:58:54		Info			Contact Method of Shopping Centre sheet Passed
+26-Sep-2023		12:58:54		Info			HouseAreaService Method of Shopping Centre sheet start running
+26-Sep-2023		12:59:06		Error			HouseAreaService Method of Shopping Centre sheet Faild
+26-Sep-2023		12:59:06		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		12:59:06		Info			HouseArea Method of Shopping Centre sheet start running
+26-Sep-2023		12:59:06		Info			HouseArea Method of Shopping Centre sheet Passed
+26-Sep-2023		12:59:06		Info			Area Method of Shopping Centre sheet start running
+26-Sep-2023		12:59:07		Info			Area Method of Shopping Centre sheet Passed
+26-Sep-2023		12:59:07		Info			Parkingspace Method of Shopping Centre sheet start running
+26-Sep-2023		12:59:26		Info			Parkingspace Method of Shopping Centre sheet Passed
+26-Sep-2023		12:59:27		Info			FoodCourt Method of Shopping Centre sheet start running
+26-Sep-2023		12:59:46		Info			FoodCourt Method of Shopping Centre sheet Passed
+26-Sep-2023		12:59:46		Info			Cinemas Method of Shopping Centre sheet start running
+26-Sep-2023		12:59:46		Info			Cinemas Method of Shopping Centre sheet Passed
+26-Sep-2023		12:59:47		Info			GYM Method of Shopping Centre sheet start running
+26-Sep-2023		13:00:08		Info			GYM Method of Shopping Centre sheet Passed
+26-Sep-2023		13:00:08		Info			GridElectricity Method of Shopping Centre sheet start running
+26-Sep-2023		13:02:35		Info			GridElectricity Method of Shopping Centre sheet Passed
+26-Sep-2023		13:02:36		Info			RenewableElectricity Method of Shopping Centre sheet start running
+26-Sep-2023		13:02:57		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+26-Sep-2023		13:02:57		Info			GasAndLPG Method of Shopping Centre sheet start running
+26-Sep-2023		13:03:01		Error			GasAndLPG Method of Shopping Centre sheet Faild
+26-Sep-2023		13:03:02		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:03:02		Info			Diesel Method of Shopping Centre sheet start running
+26-Sep-2023		13:03:06		Error			Diesel Method of Shopping Centre sheet Faild
+26-Sep-2023		13:03:06		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:03:06		Info			Water Method of Shopping Centre sheet start running
+26-Sep-2023		13:03:09		Info			Water Method of Shopping Centre sheet Passed
+26-Sep-2023		13:03:09		Info			ReviewSummary Method of Shopping Centre sheet start running
+26-Sep-2023		13:03:14		Error			ReviewSummary Method of Shopping Centre sheet Faild
+26-Sep-2023		13:03:14		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:03:14		Info			CertificationProcess Method of Shopping Centre sheet start running
+26-Sep-2023		13:03:20		Error			CertificationProcess Method of Shopping Centre sheet Faild
+26-Sep-2023		13:03:20		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:03:20		Info			Logout Method of Shopping Centre sheet start running
+26-Sep-2023		13:03:20		Error			java.lang.reflect.InvocationTargetException
+26-Sep-2023		13:03:20		Info			Shopping Centre1 Scenario sheet start executing
+26-Sep-2023		13:03:21		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+26-Sep-2023		13:03:34		Info			Login Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:03:51		Info			Login Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:03:51		Info			SelectRatingType Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:04:14		Info			SelectRatingType Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:04:14		Info			RatingDetails Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:04:29		Info			RatingDetails Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:04:29		Info			RatingPeriod Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:04:39		Info			RatingPeriod Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:04:39		Info			Premises Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:04:57		Info			Premises Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:04:57		Info			Contact Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:05:14		Info			Contact Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:05:14		Info			HouseAreaService Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:05:15		Info			HouseAreaService Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:05:15		Info			HouseArea Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:06:18		Info			HouseArea Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:06:18		Info			Area Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:06:18		Info			Area Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:06:19		Info			Parkingspace Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:06:19		Info			Parkingspace Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:06:19		Info			FoodCourt Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:07:16		Info			FoodCourt Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:07:16		Info			Cinemas Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:07:55		Info			Cinemas Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:07:55		Info			GYM Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:08:57		Info			GYM Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:08:57		Info			GridElectricity Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:09:00		Info			GridElectricity Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:09:00		Info			RenewableElectricity Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:09:00		Info			RenewableElectricity Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:09:00		Info			GasAndLPG Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:09:04		Info			GasAndLPG Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:09:04		Info			Diesel Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:09:07		Info			Diesel Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:09:07		Info			Water Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:10:24		Info			Water Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:10:24		Info			ReviewSummary Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:10:39		Info			ReviewSummary Method of Shopping Centre1 sheet Passed
+26-Sep-2023		13:10:39		Info			CertificationProcess Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:10:46		Error			CertificationProcess Method of Shopping Centre1 sheet Faild
+26-Sep-2023		13:10:46		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:10:46		Info			Logout Method of Shopping Centre1 sheet start running
+26-Sep-2023		13:10:46		Error			java.lang.reflect.InvocationTargetException
+26-Sep-2023		13:10:46		Info			Hotel Scenario sheet start executing
+26-Sep-2023		13:10:46		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+26-Sep-2023		13:10:58		Info			Login Method of Hotel sheet start running
+26-Sep-2023		13:11:14		Info			Login Method of Hotel sheet Passed
+26-Sep-2023		13:11:15		Info			SelectRatingType Method of Hotel sheet start running
+26-Sep-2023		13:11:37		Info			SelectRatingType Method of Hotel sheet Passed
+26-Sep-2023		13:11:37		Info			RatingDetails Method of Hotel sheet start running
+26-Sep-2023		13:11:57		Info			RatingDetails Method of Hotel sheet Passed
+26-Sep-2023		13:11:57		Info			RatingPeriod Method of Hotel sheet start running
+26-Sep-2023		13:12:07		Info			RatingPeriod Method of Hotel sheet Passed
+26-Sep-2023		13:12:08		Info			Premises Method of Hotel sheet start running
+26-Sep-2023		13:12:27		Info			Premises Method of Hotel sheet Passed
+26-Sep-2023		13:12:27		Info			Contact Method of Hotel sheet start running
+26-Sep-2023		13:12:44		Info			Contact Method of Hotel sheet Passed
+26-Sep-2023		13:12:44		Info			SizeAndServicing Method of Hotel sheet start running
+26-Sep-2023		13:13:53		Info			SizeAndServicing Method of Hotel sheet Passed
+26-Sep-2023		13:13:53		Info			HotelQuality Method of Hotel sheet start running
+26-Sep-2023		13:14:08		Info			HotelQuality Method of Hotel sheet Passed
+26-Sep-2023		13:14:09		Info			Facilities Method of Hotel sheet start running
+26-Sep-2023		13:14:30		Error			Facilities Method of Hotel sheet Faild
+26-Sep-2023		13:14:31		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:14:31		Info			GridElectricity Method of Hotel sheet start running
+26-Sep-2023		13:14:34		Error			GridElectricity Method of Hotel sheet Faild
+26-Sep-2023		13:14:34		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:14:34		Info			RenewableElectricity Method of Hotel sheet start running
+26-Sep-2023		13:15:08		Info			RenewableElectricity Method of Hotel sheet Passed
+26-Sep-2023		13:15:09		Info			GasAndLPG Method of Hotel sheet start running
+26-Sep-2023		13:15:12		Error			GasAndLPG Method of Hotel sheet Faild
+26-Sep-2023		13:15:12		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:15:12		Info			Diesel Method of Hotel sheet start running
+26-Sep-2023		13:15:15		Error			Diesel Method of Hotel sheet Faild
+26-Sep-2023		13:15:15		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:15:15		Info			Water Method of Hotel sheet start running
+26-Sep-2023		13:15:19		Error			Water Method of Hotel sheet Faild
+26-Sep-2023		13:15:19		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:15:19		Info			ReviewSummary Method of Hotel sheet start running
+26-Sep-2023		13:15:34		Info			ReviewSummary Method of Hotel sheet Passed
+26-Sep-2023		13:15:34		Info			CertificationProcess Method of Hotel sheet start running
+26-Sep-2023		13:15:49		Error			CertificationProcess Method of Hotel sheet Faild
+26-Sep-2023		13:15:49		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:15:49		Info			Logout Method of Hotel sheet start running
+26-Sep-2023		13:15:49		Error			java.lang.reflect.InvocationTargetException
+26-Sep-2023		13:15:49		Info			Warehouse and cold store Scenario sheet start executing
+26-Sep-2023		13:15:49		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+26-Sep-2023		13:16:00		Info			Login Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:16:18		Info			Login Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:16:18		Info			SelectRatingType Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:16:41		Info			SelectRatingType Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:16:41		Info			RatingDetails Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:16:52		Info			RatingDetails Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:16:52		Info			RatingPeriod Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:17:02		Info			RatingPeriod Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:17:03		Info			Premises Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:17:21		Info			Premises Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:17:21		Info			Contact Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:17:40		Info			Contact Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:17:40		Info			SiteArea Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:01		Info			SiteArea Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:18:01		Info			SpacesandHours Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:34		Error			SpacesandHours Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:34		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:34		Info			SiteActivity Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:38		Error			SiteActivity Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:38		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:38		Info			GridElectricity Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:42		Error			GridElectricity Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:42		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:42		Info			RenewableElectricity Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:43		Info			RenewableElectricity Method of Warehouse and cold store sheet Passed
+26-Sep-2023		13:18:43		Info			GasAndLPG Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:46		Error			GasAndLPG Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:47		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:47		Info			Diesel Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:50		Error			Diesel Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:50		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:50		Info			Water Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:54		Error			Water Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:54		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:54		Info			ReviewSummary Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:18:57		Error			ReviewSummary Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:18:57		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:18:57		Info			CertificationProcess Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:19:02		Error			CertificationProcess Method of Warehouse and cold store sheet Faild
+26-Sep-2023		13:19:03		Error			Script terminates here and goes to next scenario.
+26-Sep-2023		13:19:03		Info			Logout Method of Warehouse and cold store sheet start running
+26-Sep-2023		13:19:03		Error			java.lang.reflect.InvocationTargetException

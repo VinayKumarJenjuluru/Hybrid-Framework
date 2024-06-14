@@ -1,0 +1,48 @@
+Date			Time			Category		Description
+28-Sep-2023		17:11:13		Info			NABERS Automation Script has been Started
+28-Sep-2023		17:11:14		Info			There are 4 Scenario present
+28-Sep-2023		17:11:15		Info			Shopping Centre Scenario sheet start executing
+28-Sep-2023		17:11:16		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+28-Sep-2023		17:11:30		Info			Login Method of Shopping Centre sheet start running
+28-Sep-2023		17:11:49		Info			Login Method of Shopping Centre sheet Passed
+28-Sep-2023		17:11:50		Info			SelectRatingType Method of Shopping Centre sheet start running
+28-Sep-2023		17:12:12		Info			SelectRatingType Method of Shopping Centre sheet Passed
+28-Sep-2023		17:12:12		Info			RatingDetails Method of Shopping Centre sheet start running
+28-Sep-2023		17:12:30		Info			RatingDetails Method of Shopping Centre sheet Passed
+28-Sep-2023		17:12:30		Info			RatingPeriod Method of Shopping Centre sheet start running
+28-Sep-2023		17:12:41		Info			RatingPeriod Method of Shopping Centre sheet Passed
+28-Sep-2023		17:12:41		Info			Premises Method of Shopping Centre sheet start running
+28-Sep-2023		17:12:59		Info			Premises Method of Shopping Centre sheet Passed
+28-Sep-2023		17:12:59		Info			Contact Method of Shopping Centre sheet start running
+28-Sep-2023		17:13:16		Info			Contact Method of Shopping Centre sheet Passed
+28-Sep-2023		17:13:16		Info			HouseAreaService Method of Shopping Centre sheet start running
+28-Sep-2023		17:15:21		Info			HouseAreaService Method of Shopping Centre sheet Passed
+28-Sep-2023		17:15:21		Info			HouseArea Method of Shopping Centre sheet start running
+28-Sep-2023		17:15:21		Info			HouseArea Method of Shopping Centre sheet Passed
+28-Sep-2023		17:15:22		Info			Area Method of Shopping Centre sheet start running
+28-Sep-2023		17:15:22		Info			Area Method of Shopping Centre sheet Passed
+28-Sep-2023		17:15:22		Info			Parkingspace Method of Shopping Centre sheet start running
+28-Sep-2023		17:15:42		Info			Parkingspace Method of Shopping Centre sheet Passed
+28-Sep-2023		17:15:42		Info			FoodCourt Method of Shopping Centre sheet start running
+28-Sep-2023		17:16:01		Info			FoodCourt Method of Shopping Centre sheet Passed
+28-Sep-2023		17:16:02		Info			Cinemas Method of Shopping Centre sheet start running
+28-Sep-2023		17:16:02		Info			Cinemas Method of Shopping Centre sheet Passed
+28-Sep-2023		17:16:02		Info			GYM Method of Shopping Centre sheet start running
+28-Sep-2023		17:16:23		Info			GYM Method of Shopping Centre sheet Passed
+28-Sep-2023		17:16:23		Info			GridElectricity Method of Shopping Centre sheet start running
+28-Sep-2023		17:17:48		Info			GridElectricity Method of Shopping Centre sheet Passed
+28-Sep-2023		17:17:48		Info			RenewableElectricity Method of Shopping Centre sheet start running
+28-Sep-2023		17:18:32		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+28-Sep-2023		17:18:33		Info			GasAndLPG Method of Shopping Centre sheet start running
+28-Sep-2023		17:18:43		Info			GasAndLPG Method of Shopping Centre sheet Passed
+28-Sep-2023		17:18:43		Info			Diesel Method of Shopping Centre sheet start running
+28-Sep-2023		17:18:52		Info			Diesel Method of Shopping Centre sheet Passed
+28-Sep-2023		17:18:52		Info			Water Method of Shopping Centre sheet start running
+28-Sep-2023		17:18:55		Info			Water Method of Shopping Centre sheet Passed
+28-Sep-2023		17:18:55		Info			ReviewSummary Method of Shopping Centre sheet start running
+28-Sep-2023		17:19:10		Info			ReviewSummary Method of Shopping Centre sheet Passed
+28-Sep-2023		17:19:10		Info			CertificationProcess Method of Shopping Centre sheet start running
+28-Sep-2023		17:20:11		Info			CertificationProcess Method of Shopping Centre sheet Passed
+28-Sep-2023		17:20:11		Info			Logout Method of Shopping Centre sheet start running
+28-Sep-2023		17:20:11		Info			Logout Method of Shopping Centre sheet Passed
+28-Sep-2023		17:20:11		Error			java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Row.getLastCellNum()" because "rowKey" is null

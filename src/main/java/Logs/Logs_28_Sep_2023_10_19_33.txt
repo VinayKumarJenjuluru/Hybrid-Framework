@@ -1,0 +1,62 @@
+Date			Time			Category		Description
+28-Sep-2023		14:49:34		Info			NABERS Automation Script has been Started
+28-Sep-2023		14:49:35		Info			There are 4 Scenario present
+28-Sep-2023		14:49:36		Info			Shopping Centre Scenario sheet start executing
+28-Sep-2023		14:49:37		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+28-Sep-2023		14:49:55		Info			Login Method of Shopping Centre sheet start running
+28-Sep-2023		14:50:19		Info			Login Method of Shopping Centre sheet Passed
+28-Sep-2023		14:50:19		Info			SelectRatingType Method of Shopping Centre sheet start running
+28-Sep-2023		14:50:36		Error			SelectRatingType Method of Shopping Centre sheet Faild
+28-Sep-2023		14:50:37		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:50:37		Info			RatingDetails Method of Shopping Centre sheet start running
+28-Sep-2023		14:50:57		Error			RatingDetails Method of Shopping Centre sheet Faild
+28-Sep-2023		14:50:57		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:50:57		Info			RatingPeriod Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:01		Error			RatingPeriod Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:01		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:01		Info			Premises Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:05		Error			Premises Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:05		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:06		Info			Contact Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:09		Error			Contact Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:10		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:10		Info			HouseAreaService Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:17		Error			HouseAreaService Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:17		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:17		Info			HouseArea Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:17		Info			HouseArea Method of Shopping Centre sheet Passed
+28-Sep-2023		14:51:18		Info			Area Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:18		Info			Area Method of Shopping Centre sheet Passed
+28-Sep-2023		14:51:18		Info			Parkingspace Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:25		Error			Parkingspace Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:25		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:25		Info			FoodCourt Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:32		Error			FoodCourt Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:33		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:33		Info			Cinemas Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:33		Info			Cinemas Method of Shopping Centre sheet Passed
+28-Sep-2023		14:51:33		Info			GYM Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:40		Error			GYM Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:40		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:40		Info			GridElectricity Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:44		Error			GridElectricity Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:44		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:44		Info			RenewableElectricity Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:44		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+28-Sep-2023		14:51:44		Info			GasAndLPG Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:47		Error			GasAndLPG Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:47		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:48		Info			Diesel Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:51		Error			Diesel Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:51		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:51		Info			Water Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:54		Info			Water Method of Shopping Centre sheet Passed
+28-Sep-2023		14:51:54		Info			ReviewSummary Method of Shopping Centre sheet start running
+28-Sep-2023		14:51:57		Error			ReviewSummary Method of Shopping Centre sheet Faild
+28-Sep-2023		14:51:58		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:51:58		Info			CertificationProcess Method of Shopping Centre sheet start running
+28-Sep-2023		14:52:03		Error			CertificationProcess Method of Shopping Centre sheet Faild
+28-Sep-2023		14:52:03		Error			Script terminates here and goes to next scenario.
+28-Sep-2023		14:52:03		Info			Logout Method of Shopping Centre sheet start running
+28-Sep-2023		14:52:03		Error			java.lang.reflect.InvocationTargetException
+28-Sep-2023		14:52:03		Error			java.lang.NullPointerException: Cannot invoke "String.equalsIgnoreCase(String)" because "Methods.NABERS_Common_Methods.NABERS_Common_Methods.ratingNumberOfTheBuilding" is null

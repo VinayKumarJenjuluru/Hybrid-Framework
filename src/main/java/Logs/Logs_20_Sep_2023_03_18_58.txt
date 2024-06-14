@@ -1,0 +1,47 @@
+Date			Time			Category		Description
+20-Sep-2023		19:48:58		Info			NABERS Automation Script has been Started
+20-Sep-2023		19:49:00		Info			There are 4 Scenario present
+20-Sep-2023		19:49:01		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		19:49:03		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:49:19		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		19:49:40		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		19:49:40		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		19:50:04		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		19:50:04		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		19:50:21		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		19:50:22		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		19:50:32		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		19:50:32		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		19:50:51		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		19:50:51		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		19:51:10		Info			Contact Method of Shopping Centre sheet Passed
+20-Sep-2023		19:51:10		Info			HouseAreaService Method of Shopping Centre sheet start running
+20-Sep-2023		19:51:39		Error			HouseAreaService Method of Shopping Centre sheet Faild
+20-Sep-2023		19:51:39		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		19:51:39		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		19:51:40		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:51:45		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [83fdd43d6d5c53f45bde7bf22633c338, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50859}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50859/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 83fdd43d6d5c53f45bde7bf22633c338
+20-Sep-2023		19:51:46		Info			Hotel Scenario sheet start executing
+20-Sep-2023		19:51:47		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:51:52		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [776014a24bbd2833806649a1ed607f91, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50874}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50874/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 776014a24bbd2833806649a1ed607f91
+20-Sep-2023		19:51:52		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		19:51:53		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:51:59		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1597702698f70ddfb6e163890f564f7f, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50888/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1597702698f70ddfb6e163890f564f7f

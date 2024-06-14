@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<Titel>Test Automation Logs</Titel>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {box-sizing: border-box}
+
+    /* Set height of body and the document to 100% */
+    body, html { height: 100%;margin: 0;font-family: Arial;}
+
+    /* Style tab links */
+    .tablink { background-color: #555;  color: white;float: left;border: none;outline: none;cursor: pointer;padding: 14px 16px;font-size: 17px;width: 25%;}
+
+    .tablink:hover {background-color: #777;}
+
+    /* Style the tab content (and add height:100% for full page content) */
+    .tabcontent {color: #0000FF;display: none;padding: 100px 20px;height: 100%;}
+
+    #Summary {background-color: #FFFFFF;}
+    #Execution Methods {background-color: #FFFFFF;}
+    #Images {background-color: #FFFFFF;}
+    #Logs {background-color: #FFFFFF;}
+
+</style>
+</head>
+<body>
+    <button class="tablink" onclick="openPage('Summary', this, 'orange')" id="defaultOpen">Summary</button>
+    <button class="tablink" onclick="openPage('Execution Methods', this, 'orange')">Execution Methods</button>
+    <button class="tablink" onclick="openPage('Images', this, 'orange')">Images</button>
+    <button class="tablink" onclick="openPage('Logs', this, 'orange')">Logs</button>
+
+    <div id="Summary" class="tabcontent">
+        <h3></h3>
+        <p></p>
+        <style>
+</style>
+        PieChart vinay
+
+    </div>
+    <div id="Execution Methods" class="tabcontent">
+        <h3></h3>
+        <p>Current_Execution_Methods_List</p>
+    </div>
+    <div id="Images" class="tabcontent">
+        <h3></h3>
+        <p><Table border=0 width=100% style=font-size:14px;>Images_Base64_Code_For_Current_Execution</Table></p>
+    </div>
+    <div id="Logs" class="tabcontent">
+        <h3>NABERS</h3>
+        <p>Automation scripts execution logs:</p>
+        <table border=1>
+            <tr>
+                <th width=200px>Date</th>
+                <th width=200px>Time</th>
+                <th width=200px>Log Type</th>
+                <th width=1500px>Description</th>
+            </tr>
+             <TR><TD style="text-align: center">15-Mar-2024</TD><TD style="text-align: center">14:30:55</TD><TD style="text-align: center">Info</TD><TD>&nbsp;NABERS Automation Script has been Started</TD></TR> <TR><TD style="text-align: center">15-Mar-2024</TD><TD style="text-align: center">14:30:57</TD><TD style="text-align: center">Info</TD><TD>&nbsp;There are 2 Scenario present</TD></TR> <TR><TD style="text-align: center">15-Mar-2024</TD><TD style="text-align: center">14:30:57</TD><TD style="text-align: center">Info</TD><TD>&nbsp;Shopping Centre Scenario sheet start executing</TD></TR> <TR><TD style="text-align: center">15-Mar-2024</TD><TD style="text-align: center">14:31:01</TD><TD style="text-align: center">Info</TD><TD>&nbsp;Scenario sheet is available in test data workbook and start counting the sheet Methods</TD></TR> <TR><TD style="text-align: center">15-Mar-2024</TD><TD style="text-align: center">14:31:09</TD><TD style="text-align: center">Error</TD><TD>&nbsp;org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa48ca3c0131b2a91dcd252a3b2f430e, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51839}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51839/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa48ca3c0131b2a91dcd252a3b2f430e</TD></TR> <TR><TD style="text-align: center">15-Mar-2024</TD><TD style="text-align: center">14:31:09</TD><TD style="text-align: center">Error</TD><TD>&nbsp;java.lang.StringIndexOutOfBoundsException: Range [8, 0) out of bounds for length 0</TD></TR>Scripts_Execution_Logs
+        </table>
+    </div>
+<script>
+    function openPage(pageName,elmnt,color) {
+      var i, tabcontent, tablinks;
+      tabcontent = document.getElementsByClassName("tabcontent");
+      for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+      }
+      tablinks = document.getElementsByClassName("tablink");
+      for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].style.backgroundColor = "";
+      }
+      document.getElementById(pageName).style.display = "block";
+      elmnt.style.backgroundColor = color;
+    }
+    // Get the element with id="defaultOpen" and click on it
+    document.getElementById("defaultOpen").click();
+</script>
+
+</body>
+</html> 

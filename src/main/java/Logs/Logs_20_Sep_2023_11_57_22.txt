@@ -1,0 +1,18 @@
+Date			Time			Category		Description
+20-Sep-2023		16:27:23		Info			NABERS Automation Script has been Started
+20-Sep-2023		16:27:34		Info			There are 4 Scenario present
+20-Sep-2023		16:27:36		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		16:27:47		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		16:28:36		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		16:29:20		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		16:29:23		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		16:29:58		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		16:30:02		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		16:30:22		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		16:30:24		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		16:30:59		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		16:31:04		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		16:31:35		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		16:31:39		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		16:31:50		Error			java.lang.reflect.InvocationTargetException
+20-Sep-2023		16:31:52		Info			Shopping Centre1 Scenario sheet start executing

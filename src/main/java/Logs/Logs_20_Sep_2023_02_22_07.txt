@@ -1,0 +1,124 @@
+Date			Time			Category		Description
+20-Sep-2023		18:52:07		Info			NABERS Automation Script has been Started
+20-Sep-2023		18:52:08		Info			There are 4 Scenario present
+20-Sep-2023		18:52:08		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		18:52:10		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		18:52:22		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		18:52:40		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		18:52:41		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		18:53:03		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		18:53:03		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		18:53:20		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		18:53:20		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		18:53:30		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		18:53:30		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		18:53:47		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		18:53:47		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		18:54:05		Info			Contact Method of Shopping Centre sheet Passed
+20-Sep-2023		18:54:05		Info			HouseAreaService Method of Shopping Centre sheet start running
+20-Sep-2023		18:56:09		Info			HouseAreaService Method of Shopping Centre sheet Passed
+20-Sep-2023		18:56:09		Info			HouseArea Method of Shopping Centre sheet start running
+20-Sep-2023		18:56:09		Info			HouseArea Method of Shopping Centre sheet Passed
+20-Sep-2023		18:56:09		Info			Area Method of Shopping Centre sheet start running
+20-Sep-2023		18:56:09		Info			Area Method of Shopping Centre sheet Passed
+20-Sep-2023		18:56:10		Info			Parkingspace Method of Shopping Centre sheet start running
+20-Sep-2023		18:56:29		Info			Parkingspace Method of Shopping Centre sheet Passed
+20-Sep-2023		18:56:29		Info			FoodCourt Method of Shopping Centre sheet start running
+20-Sep-2023		18:56:49		Info			FoodCourt Method of Shopping Centre sheet Passed
+20-Sep-2023		18:56:49		Info			Cinemas Method of Shopping Centre sheet start running
+20-Sep-2023		18:56:49		Info			Cinemas Method of Shopping Centre sheet Passed
+20-Sep-2023		18:56:49		Info			GYM Method of Shopping Centre sheet start running
+20-Sep-2023		18:57:11		Info			GYM Method of Shopping Centre sheet Passed
+20-Sep-2023		18:57:11		Info			GridElectricity Method of Shopping Centre sheet start running
+20-Sep-2023		18:59:36		Info			GridElectricity Method of Shopping Centre sheet Passed
+20-Sep-2023		18:59:36		Info			RenewableElectricity Method of Shopping Centre sheet start running
+20-Sep-2023		19:00:20		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+20-Sep-2023		19:00:20		Info			GasAndLPG Method of Shopping Centre sheet start running
+20-Sep-2023		19:00:31		Info			GasAndLPG Method of Shopping Centre sheet Passed
+20-Sep-2023		19:00:31		Info			Diesel Method of Shopping Centre sheet start running
+20-Sep-2023		19:00:39		Info			Diesel Method of Shopping Centre sheet Passed
+20-Sep-2023		19:00:39		Info			Water Method of Shopping Centre sheet start running
+20-Sep-2023		19:00:42		Info			Water Method of Shopping Centre sheet Passed
+20-Sep-2023		19:00:42		Info			ReviewSummary Method of Shopping Centre sheet start running
+20-Sep-2023		19:00:58		Info			ReviewSummary Method of Shopping Centre sheet Passed
+20-Sep-2023		19:00:58		Info			CertificationProcess Method of Shopping Centre sheet start running
+20-Sep-2023		19:01:53		Error			CertificationProcess Method of Shopping Centre sheet Faild
+20-Sep-2023		19:01:53		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		19:01:53		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		19:01:54		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:02:04		Info			Login Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:02:21		Info			Login Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:02:21		Info			SelectRatingType Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:02:44		Info			SelectRatingType Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:02:44		Info			RatingDetails Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:02:58		Info			RatingDetails Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:02:58		Info			RatingPeriod Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:03:08		Info			RatingPeriod Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:03:08		Info			Premises Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:03:26		Info			Premises Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:03:26		Info			Contact Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:03:44		Info			Contact Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:03:44		Info			HouseAreaService Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:03:44		Info			HouseAreaService Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:03:44		Info			HouseArea Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:04:48		Info			HouseArea Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:04:48		Info			Area Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:04:48		Info			Area Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:04:48		Info			Parkingspace Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:04:48		Info			Parkingspace Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:04:48		Info			FoodCourt Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:05:45		Info			FoodCourt Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:05:45		Info			Cinemas Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:06:24		Info			Cinemas Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:06:25		Info			GYM Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:07:29		Info			GYM Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:07:29		Info			GridElectricity Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:07:33		Info			GridElectricity Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:07:33		Info			RenewableElectricity Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:07:33		Info			RenewableElectricity Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:07:34		Info			GasAndLPG Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:07:37		Info			GasAndLPG Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:07:37		Info			Diesel Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:07:41		Info			Diesel Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:07:41		Info			Water Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:09:06		Info			Water Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:09:07		Info			ReviewSummary Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:09:23		Info			ReviewSummary Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:09:23		Info			CertificationProcess Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:10:24		Error			CertificationProcess Method of Shopping Centre1 sheet Faild
+20-Sep-2023		19:10:24		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		19:10:25		Info			Hotel Scenario sheet start executing
+20-Sep-2023		19:10:26		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:10:40		Info			Login Method of Hotel sheet start running
+20-Sep-2023		19:11:03		Info			Login Method of Hotel sheet Passed
+20-Sep-2023		19:11:03		Info			SelectRatingType Method of Hotel sheet start running
+20-Sep-2023		19:11:28		Info			SelectRatingType Method of Hotel sheet Passed
+20-Sep-2023		19:11:29		Info			RatingDetails Method of Hotel sheet start running
+20-Sep-2023		19:11:49		Info			RatingDetails Method of Hotel sheet Passed
+20-Sep-2023		19:11:50		Info			RatingPeriod Method of Hotel sheet start running
+20-Sep-2023		19:12:01		Info			RatingPeriod Method of Hotel sheet Passed
+20-Sep-2023		19:12:01		Info			Premises Method of Hotel sheet start running
+20-Sep-2023		19:12:23		Info			Premises Method of Hotel sheet Passed
+20-Sep-2023		19:12:23		Info			Contact Method of Hotel sheet start running
+20-Sep-2023		19:12:43		Info			Contact Method of Hotel sheet Passed
+20-Sep-2023		19:12:43		Info			SizeAndServicing Method of Hotel sheet start running
+20-Sep-2023		19:14:07		Info			SizeAndServicing Method of Hotel sheet Passed
+20-Sep-2023		19:14:08		Info			HotelQuality Method of Hotel sheet start running
+20-Sep-2023		19:14:25		Info			HotelQuality Method of Hotel sheet Passed
+20-Sep-2023		19:14:25		Info			Facilities Method of Hotel sheet start running
+20-Sep-2023		19:14:46		Info			Facilities Method of Hotel sheet Passed
+20-Sep-2023		19:14:47		Info			GridElectricity Method of Hotel sheet start running
+20-Sep-2023		19:14:51		Error			GridElectricity Method of Hotel sheet Faild
+20-Sep-2023		19:14:51		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		19:14:52		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		19:14:53		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:15:00		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.188)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0a202d76827227fd47201185ab32e60d, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50403}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50403/devtoo..., se:cdpVersion: 116.0.5845.188, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0a202d76827227fd47201185ab32e60d
+20-Sep-2023		19:15:00		Error			java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "sheet" is null

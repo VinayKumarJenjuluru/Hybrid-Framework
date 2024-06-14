@@ -1,0 +1,60 @@
+Date			Time			Category		Description
+15-Mar-2024		17:53:19		Info			NABERS Automation Script has been Started
+15-Mar-2024		17:53:20		Info			There are 2 Scenario present
+15-Mar-2024		17:53:20		Info			Shopping Centre Scenario sheet start executing
+15-Mar-2024		17:53:22		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		17:53:35		Info			Login Method of Shopping Centre sheet start running
+15-Mar-2024		17:53:55		Info			Login Method of Shopping Centre sheet Passed
+15-Mar-2024		17:53:55		Info			SelectRatingType Method of Shopping Centre sheet start running
+15-Mar-2024		17:54:17		Info			SelectRatingType Method of Shopping Centre sheet Passed
+15-Mar-2024		17:54:18		Info			RatingDetails Method of Shopping Centre sheet start running
+15-Mar-2024		17:54:34		Info			RatingDetails Method of Shopping Centre sheet Passed
+15-Mar-2024		17:54:35		Info			RatingPeriod Method of Shopping Centre sheet start running
+15-Mar-2024		17:54:44		Info			RatingPeriod Method of Shopping Centre sheet Passed
+15-Mar-2024		17:54:45		Info			Premises Method of Shopping Centre sheet start running
+15-Mar-2024		17:55:01		Info			Premises Method of Shopping Centre sheet Passed
+15-Mar-2024		17:55:02		Info			Contact Method of Shopping Centre sheet start running
+15-Mar-2024		17:55:19		Info			Contact Method of Shopping Centre sheet Passed
+15-Mar-2024		17:55:19		Info			HouseAreaService Method of Shopping Centre sheet start running
+15-Mar-2024		17:57:18		Error			HouseAreaService Method of Shopping Centre sheet Faild
+15-Mar-2024		17:57:18		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		17:57:18		Info			HouseArea Method of Shopping Centre sheet start running
+15-Mar-2024		17:57:18		Info			HouseArea Method of Shopping Centre sheet Passed
+15-Mar-2024		17:57:18		Info			Area Method of Shopping Centre sheet start running
+15-Mar-2024		17:57:19		Info			Area Method of Shopping Centre sheet Passed
+15-Mar-2024		17:57:19		Info			Parkingspace Method of Shopping Centre sheet start running
+15-Mar-2024		17:57:38		Info			Parkingspace Method of Shopping Centre sheet Passed
+15-Mar-2024		17:57:38		Info			FoodCourt Method of Shopping Centre sheet start running
+15-Mar-2024		17:57:58		Info			FoodCourt Method of Shopping Centre sheet Passed
+15-Mar-2024		17:57:58		Info			Cinemas Method of Shopping Centre sheet start running
+15-Mar-2024		17:57:58		Info			Cinemas Method of Shopping Centre sheet Passed
+15-Mar-2024		17:57:58		Info			GYM Method of Shopping Centre sheet start running
+15-Mar-2024		17:58:20		Info			GYM Method of Shopping Centre sheet Passed
+15-Mar-2024		17:58:20		Info			GridElectricity Method of Shopping Centre sheet start running
+15-Mar-2024		17:59:37		Info			GridElectricity Method of Shopping Centre sheet Passed
+15-Mar-2024		17:59:37		Info			RenewableElectricity Method of Shopping Centre sheet start running
+15-Mar-2024		18:00:12		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+15-Mar-2024		18:00:12		Info			GasAndLPG Method of Shopping Centre sheet start running
+15-Mar-2024		18:00:22		Info			GasAndLPG Method of Shopping Centre sheet Passed
+15-Mar-2024		18:00:23		Info			Diesel Method of Shopping Centre sheet start running
+15-Mar-2024		18:00:31		Info			Diesel Method of Shopping Centre sheet Passed
+15-Mar-2024		18:00:31		Info			Water Method of Shopping Centre sheet start running
+15-Mar-2024		18:00:34		Info			Water Method of Shopping Centre sheet Passed
+15-Mar-2024		18:00:34		Info			ReviewSummary Method of Shopping Centre sheet start running
+15-Mar-2024		18:00:50		Info			ReviewSummary Method of Shopping Centre sheet Passed
+15-Mar-2024		18:00:50		Info			CertificationProcess Method of Shopping Centre sheet start running
+15-Mar-2024		18:01:26		Error			CertificationProcess Method of Shopping Centre sheet Faild
+15-Mar-2024		18:01:27		Error			Script terminates here and goes to next scenario.
+15-Mar-2024		18:01:27		Info			Logout Method of Shopping Centre sheet start running
+15-Mar-2024		18:01:27		Error			java.lang.reflect.InvocationTargetException
+15-Mar-2024		18:01:27		Info			Shopping Centre1 Scenario sheet start executing
+15-Mar-2024		18:01:27		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+15-Mar-2024		18:01:33		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.95)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ab829c8c03d985e60898bebb50322b7, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.95, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54478}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54478/devtoo..., se:cdpVersion: 122.0.6261.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ab829c8c03d985e60898bebb50322b7

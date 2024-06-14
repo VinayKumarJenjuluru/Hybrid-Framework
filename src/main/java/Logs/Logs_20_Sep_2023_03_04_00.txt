@@ -1,0 +1,34 @@
+Date			Time			Category		Description
+20-Sep-2023		19:34:00		Info			NABERS Automation Script has been Started
+20-Sep-2023		19:34:01		Info			There are 4 Scenario present
+20-Sep-2023		19:34:01		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		19:34:03		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:34:16		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		19:34:34		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		19:34:34		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		19:34:57		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		19:34:57		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		19:35:14		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		19:35:14		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		19:35:23		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		19:35:24		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		19:35:41		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		19:35:41		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		19:36:00		Info			Contact Method of Shopping Centre sheet Passed
+20-Sep-2023		19:36:00		Info			HouseAreaService Method of Shopping Centre sheet start running
+20-Sep-2023		19:36:30		Error			HouseAreaService Method of Shopping Centre sheet Faild
+20-Sep-2023		19:36:31		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		19:36:31		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		19:36:31		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:36:42		Info			Login Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:37:00		Info			Login Method of Shopping Centre1 sheet Passed
+20-Sep-2023		19:37:00		Info			SelectRatingType Method of Shopping Centre1 sheet start running
+20-Sep-2023		19:37:07		Error			java.lang.reflect.InvocationTargetException
+20-Sep-2023		19:37:07		Info			Hotel Scenario sheet start executing
+20-Sep-2023		19:37:07		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:37:17		Info			Login Method of Hotel sheet start running
+20-Sep-2023		19:37:41		Error			java.lang.reflect.InvocationTargetException
+20-Sep-2023		19:37:41		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		19:37:42		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		19:37:51		Info			Login Method of Warehouse and cold store sheet start running
+20-Sep-2023		19:38:15		Error			java.lang.reflect.InvocationTargetException

@@ -1,0 +1,48 @@
+Date			Time			Category		Description
+20-Sep-2023		13:49:31		Info			NABERS Automation Script has been Started
+20-Sep-2023		13:49:32		Info			There are 4 Scenario present
+20-Sep-2023		13:49:33		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		13:49:34		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:49:46		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		13:50:04		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		13:50:04		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		13:50:26		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		13:50:27		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		13:50:44		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		13:50:44		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		13:50:54		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		13:50:54		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		13:51:11		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		13:51:11		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		13:51:29		Info			Contact Method of Shopping Centre sheet Passed
+20-Sep-2023		13:51:29		Info			HouseAreaService Method of Shopping Centre sheet start running
+20-Sep-2023		13:52:35		Error			HouseAreaService Method of Shopping Centre sheet Faild
+20-Sep-2023		13:52:35		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		13:52:35		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		13:52:36		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:52:42		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [04706ec7a537f4a33130388df1476fbc, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52591}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52591/devtoo..., se:cdpVersion: 116.0.5845.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 04706ec7a537f4a33130388df1476fbc
+20-Sep-2023		13:52:42		Info			Hotel Scenario sheet start executing
+20-Sep-2023		13:52:43		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:52:47		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af1f0815bc3fee22b00ad67dd8c14699, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52608/devtoo..., se:cdpVersion: 116.0.5845.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: af1f0815bc3fee22b00ad67dd8c14699
+20-Sep-2023		13:52:47		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		13:52:47		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:52:51		Error			org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e76fa5c65c9382f7bdfb12a8559ba67e, get {url=https://nabers--naboltest.sandbox.my.site.com/community/s/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52621}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52621/devtoo..., se:cdpVersion: 116.0.5845.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e76fa5c65c9382f7bdfb12a8559ba67e
+20-Sep-2023		13:52:52		Error			java.lang.NullPointerException: Cannot invoke "org.apache.poi.xssf.usermodel.XSSFSheet.getLastRowNum()" because "sheet" is null

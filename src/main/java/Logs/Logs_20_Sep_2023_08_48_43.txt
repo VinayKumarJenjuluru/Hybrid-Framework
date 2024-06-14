@@ -1,0 +1,74 @@
+Date			Time			Category		Description
+20-Sep-2023		13:18:43		Info			NABERS Automation Script has been Started
+20-Sep-2023		13:18:44		Info			There are 4 Scenario present
+20-Sep-2023		13:18:44		Info			Shopping Centre Scenario sheet start executing
+20-Sep-2023		13:18:46		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:18:57		Info			Login Method of Shopping Centre sheet start running
+20-Sep-2023		13:19:13		Info			Login Method of Shopping Centre sheet Passed
+20-Sep-2023		13:19:13		Info			SelectRatingType Method of Shopping Centre sheet start running
+20-Sep-2023		13:19:35		Info			SelectRatingType Method of Shopping Centre sheet Passed
+20-Sep-2023		13:19:35		Info			RatingDetails Method of Shopping Centre sheet start running
+20-Sep-2023		13:19:51		Info			RatingDetails Method of Shopping Centre sheet Passed
+20-Sep-2023		13:19:51		Info			RatingPeriod Method of Shopping Centre sheet start running
+20-Sep-2023		13:20:00		Info			RatingPeriod Method of Shopping Centre sheet Passed
+20-Sep-2023		13:20:01		Info			Premises Method of Shopping Centre sheet start running
+20-Sep-2023		13:20:18		Info			Premises Method of Shopping Centre sheet Passed
+20-Sep-2023		13:20:18		Info			Contact Method of Shopping Centre sheet start running
+20-Sep-2023		13:20:34		Info			Contact Method of Shopping Centre sheet Passed
+20-Sep-2023		13:20:34		Info			HouseAreaService Method of Shopping Centre sheet start running
+20-Sep-2023		13:22:40		Info			HouseAreaService Method of Shopping Centre sheet Passed
+20-Sep-2023		13:22:40		Info			HouseArea Method of Shopping Centre sheet start running
+20-Sep-2023		13:22:40		Info			HouseArea Method of Shopping Centre sheet Passed
+20-Sep-2023		13:22:40		Info			Area Method of Shopping Centre sheet start running
+20-Sep-2023		13:22:40		Info			Area Method of Shopping Centre sheet Passed
+20-Sep-2023		13:22:40		Info			Parkingspace Method of Shopping Centre sheet start running
+20-Sep-2023		13:23:00		Info			Parkingspace Method of Shopping Centre sheet Passed
+20-Sep-2023		13:23:00		Info			FoodCourt Method of Shopping Centre sheet start running
+20-Sep-2023		13:23:20		Info			FoodCourt Method of Shopping Centre sheet Passed
+20-Sep-2023		13:23:20		Info			Cinemas Method of Shopping Centre sheet start running
+20-Sep-2023		13:23:20		Info			Cinemas Method of Shopping Centre sheet Passed
+20-Sep-2023		13:23:20		Info			GYM Method of Shopping Centre sheet start running
+20-Sep-2023		13:23:41		Info			GYM Method of Shopping Centre sheet Passed
+20-Sep-2023		13:23:42		Info			GridElectricity Method of Shopping Centre sheet start running
+20-Sep-2023		13:26:08		Info			GridElectricity Method of Shopping Centre sheet Passed
+20-Sep-2023		13:26:08		Info			RenewableElectricity Method of Shopping Centre sheet start running
+20-Sep-2023		13:26:52		Info			RenewableElectricity Method of Shopping Centre sheet Passed
+20-Sep-2023		13:26:52		Info			GasAndLPG Method of Shopping Centre sheet start running
+20-Sep-2023		13:27:02		Info			GasAndLPG Method of Shopping Centre sheet Passed
+20-Sep-2023		13:27:02		Info			Diesel Method of Shopping Centre sheet start running
+20-Sep-2023		13:27:11		Info			Diesel Method of Shopping Centre sheet Passed
+20-Sep-2023		13:27:11		Info			Water Method of Shopping Centre sheet start running
+20-Sep-2023		13:27:14		Info			Water Method of Shopping Centre sheet Passed
+20-Sep-2023		13:27:14		Info			ReviewSummary Method of Shopping Centre sheet start running
+20-Sep-2023		13:27:29		Info			ReviewSummary Method of Shopping Centre sheet Passed
+20-Sep-2023		13:27:29		Info			CertificationProcess Method of Shopping Centre sheet start running
+20-Sep-2023		13:28:27		Error			CertificationProcess Method of Shopping Centre sheet Faild
+20-Sep-2023		13:28:27		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		13:28:27		Info			Shopping Centre1 Scenario sheet start executing
+20-Sep-2023		13:28:28		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:28:40		Info			Login Method of Shopping Centre1 sheet start running
+20-Sep-2023		13:29:04		Error			Login Method of Shopping Centre1 sheet Faild
+20-Sep-2023		13:29:04		Error			Script terminates here and goes to next scenario.
+20-Sep-2023		13:29:04		Info			Hotel Scenario sheet start executing
+20-Sep-2023		13:29:05		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:29:14		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.180)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4d2f710eeb015ce995b4987ece6ccc2f, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51589}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51589/devtoo..., se:cdpVersion: 116.0.5845.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4d2f710eeb015ce995b4987ece6ccc2f
+20-Sep-2023		13:29:14		Info			Warehouse and cold store Scenario sheet start executing
+20-Sep-2023		13:29:15		Info			Scenario sheet is available in test data workbook and start counting the sheet Methods
+20-Sep-2023		13:29:20		Error			org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.180)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '20.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [760f7bdffd5e627ec0b69968382b4dee, maximizeCurrentWindow {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.180, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\AIN189\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51620}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51620/devtoo..., se:cdpVersion: 116.0.5845.180, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 760f7bdffd5e627ec0b69968382b4dee
+20-Sep-2023		13:48:47		Error			java.io.FileNotFoundException: D:\Nabers_FrameWork\src\main\java\GlobalProperties\HTML_Log_Info.properties (The system cannot find the file specified)
